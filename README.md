@@ -17,7 +17,7 @@
 
 ### About the Project
 
-<img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png" width="800" height="500"/>
+<img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png" width="700" height="400"/>
 
 ### Built With
 
