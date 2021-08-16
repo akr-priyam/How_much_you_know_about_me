@@ -1,19 +1,19 @@
 This is a CLI based quiz about me. Check it to test your knowledge about me.
 
-<h1 align="center">How_much \_you_know_about_me</h1>
+<h1 align="center" style{color:"red"}>How_much_you_know_about_me</h1>
 
 <p align="center">A simple CLI quiz to know how well your friends know you</p>
 
 <h1 align="center">Links</h1>
 
 <p align="center">
-    <a href="https://replit.com/@DevansuYadav/Level-Zero-doyouknowmequiz#index.js?embed=1&output=1">Live demo on Repl.</a>
+    <a href="https://replit.com/@PriyamSamanta/Knowme#index.js?embed=1&output=1">Live demo on Repl.</a>
     
 </p>
 
 ## Images/Screenshots
 
-<img align="center" alt="CLI app" src="./images/how_much_you_know_about_me"/>
+<img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png"/>
 
 ## 🚀Features
 
