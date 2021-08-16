@@ -1,6 +1,6 @@
-@@ This is a CLI based quiz about me. Check it to test your knowledge about me. @@
+<p style='color:red'>This is a CLI based quiz about me. Check it to test your knowledge about me.</p>
 
-<h1 align="center" style{color:"red"}>How_much_you_know_about_me</h1>
+<h1 align="center" >How_much_you_know_about_me</h1>
 
 <p align="center">A simple CLI quiz to know how well your friends know you</p>
 
@@ -11,20 +11,25 @@
     
 </p>
 
-## Images/Screenshots
+### About the Project
 
 <img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png"/>
 
-## 🚀Features
+### Built With
 
-- Beautiful and Interactive CLI built using [CHALK](https://www.npmjs.com/package/chalk) library and [readline-sync](https://www.npmjs.com/package/readline-sync) library
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-## 🦋 Prerequisite for running on local
+- [CHALK](https://www.npmjs.com/package/chalk)
+- [readline-sync](https://www.npmjs.com/package/readline-sync)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node JS](https://nodejs.org/en/)
+
+### Prerequisite for running on local
 
 - [Nodejs & Npm](https://nodejs.org/en/) Installed
   <br></br>
 
-## 🛠️ Installation Steps
+### Installation Steps
 
 1. Clone the repository
 
@@ -35,7 +40,7 @@ git clone https://github.com/dipsam/How_much_you_know_about_me.git
 2. Change the working directory
 
 ```Bash
-cd Do_you_know_me-CLI-quiz/src
+cd How_much_you_know_about_me/src
 ```
 
 3. Run the app using your terminal
@@ -43,10 +48,6 @@ cd Do_you_know_me-CLI-quiz/src
 ```Bash
 node index.js
 ```
-
-## 👷 Built with
-
-- [JavaScript(Nodejs)](https://nodejs.org/en/ "Javascript"): for the CLI quiz.
 
 ## How to create your custom quiz?
 
