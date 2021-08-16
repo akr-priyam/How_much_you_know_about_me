@@ -1,4 +1,4 @@
-This is a CLI based quiz about me. Check it to test your knowledge about me.
+@@ This is a CLI based quiz about me. Check it to test your knowledge about me. @@
 
 <h1 align="center" style{color:"red"}>How_much_you_know_about_me</h1>
 
@@ -50,6 +50,6 @@ node index.js
 
 ## How to create your custom quiz?
 
-- Open the `know_me_CLI_quiz.js` file in the `src` folder.
-- Update the `questionsArray` to add your questions and answers!
-- That's it! Now go ahead and tell your best friends to play the CLI quiz:)
+- Open the `index.js` file in the `src` folder.
+- Update the `objectArray` to add your questions and answers!
+- That's it! Now go ahead and tell your best friends to play the CLI quiz :)
