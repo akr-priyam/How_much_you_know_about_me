@@ -1,4 +1,8 @@
-<p style='color:red'>This is a CLI based quiz about me. Check it to test your knowledge about me.</p>
+<p align="center">
+  <a href="https://github.com/dipsam/How_much_you_know_about_me">
+    <img src="images/readme_logo.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
 
 <h1 align="center" >How_much_you_know_about_me</h1>
 
@@ -7,13 +11,13 @@
 <h1 align="center">Links</h1>
 
 <p align="center">
-    <a href="https://replit.com/@PriyamSamanta/Knowme#index.js?embed=1&output=1">Live demo on Repl.</a>
+    <a href="https://replit.com/@PriyamSamanta/Knowme#index.js?embed=1&output=1"><strong>View Demo >></strong></a>
     
 </p>
 
 ### About the Project
 
-<img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png"/>
+<img align="center" alt="CLI app" src=".\images\how_much_you_know_about_me.png" width="800" height="500"/>
 
 ### Built With
 
